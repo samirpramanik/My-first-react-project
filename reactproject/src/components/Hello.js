@@ -6,7 +6,7 @@ function Hello() {
 //const Hello = () => <h1>Hello World!</h1>
 
 const displayMessage = () => {
-    return "Child function!";
+    return "Child function called!";
 }
 
 export default Hello;
