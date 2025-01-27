@@ -1,4 +1,4 @@
-const name = "TestName";
+//const name = "TestName";
 function Hello() {
   return <h1>Hello {displayMessage()}</h1>;
 }
